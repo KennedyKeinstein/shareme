@@ -1,2 +1,2 @@
 # shareme
-Clone from JSM
+Social Media 
